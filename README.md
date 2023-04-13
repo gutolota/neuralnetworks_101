@@ -1,0 +1,1 @@
+# Hello! This is my process for learning neural networks, the idea is try to implement from scratch without using modules like tensorflow, pytorch, etc.
